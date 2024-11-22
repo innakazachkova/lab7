@@ -1,0 +1,9 @@
+
+body {
+    background-image: url('fon.jpg');
+    background-size: cover; 
+    background-position: center; 
+}
+.w{
+    color: white;
+}
